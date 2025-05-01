@@ -5,7 +5,7 @@
 - 📫 How to reach me - yigit.gritt@gmail.com or Discord: Gritvs#5134
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I was a salesman and paid really well but its time to shift gears and do what
- i allways want to do. I made my first code when i was 11 with a friend of mine which was
+ i allways want to do. I made my first code, when i was 11 with a friend of mine, which was a
  recreation of Mario game but in a very different theme, we used VisualBasic to make it back then.
 - Currently using : Macbook M2Pro
 
